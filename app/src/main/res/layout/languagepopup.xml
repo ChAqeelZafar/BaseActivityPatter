@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearTop"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/dp_10X"
+        android:layout_marginTop="@dimen/dp_10X"
+        android:background="#ffc731"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ltvEnglish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarEng"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvEnglish"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/English"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvUrdu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarUrdu"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvUrdu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/Urdu"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvIndonesia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarIndo"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvIndonesia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/indonesia"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvTurkey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarTurkey"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvTurkey"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/turkish"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvSpanish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarSpanish"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvSpanish"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/spenish"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvGerman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarGerman"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvgerman"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/german"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <View
+            android:id="@+id/lineheader"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:id="@+id/ltvChinese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp_5X">
+
+            <ImageView
+                android:id="@+id/btnStarChinese"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvChinese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10X"
+                android:text="@string/chinese"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

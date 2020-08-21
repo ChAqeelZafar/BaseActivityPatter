@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_fda7211c8bd6c24b26646a0bbc88c870fcd66728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_9a64580470035f9ec1221eece02155783dac7977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_d1fe1b0b3bf8e54c3b81ee7dfb551c375ea0602b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_ce9adbf856af6f0efa1ed65065e7294f599fdc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_f09bd9a857409f094896ec300f7b3edca2f21043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_bb8d2c66cefc2dd770e6186a62e5b9869be399d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_ddd821707f7ca4183bad0ced49d4d0d83bedf6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_5d4bfad3021d02324ce1fb28af23f2e5105b6cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_9fae450bafb40ee917cc9be15f72fb16e763729d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.0_681be37336ff772d75c9e88ca857c3a59fc2e28a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_c197721f3a3d160a231cbcf7de1e10b2dbd49014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_1c14f86cd05da71292c6715bdb898c63cfde4318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_252526697f793db586a1fbbaa879667c46c7f3cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.0_7e4764a6466a526d2e1fafd853fa3438d1f27932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_3ec25ad96e96fb4b21a23751fcc2dd5e45d2e7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_59b93c59355388de25f763a91e235744e1336c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_08825af1e53f53c190b4a2e5a4a5b4f150078238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_17b968f5e538a9ccfc128ef514a6295376ba0079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suave\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\common-1.0.0_74100572fc622e73d790b39aa569adfcbe27b327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_8068ef01dcd7518962932411dbf3729ead008d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_e747c7be8ef31325c910fda4c4d182da1ad031a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_bdff187f0ca4ab3ad9c36b1c39348c7fe7f4ff62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_2d188e9e8021a725537bd51c784b43ff10a06a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_ad8b4b7f30e8aef0e7a49c98a5bc6615d589882c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_cb66b242d95e60b3b0ddb04a964a01377b3b856d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_66707b93e61284f876382f1e4892e670a338ef7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.0_7e4764a6466a526d2e1fafd853fa3438d1f27932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_da4b949a4359f3e57d44475411ef5f5246517b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_40f87ab862534f1d90fd071fdff5990066ee5144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_b369637f497e7c61759455c527b59bd824220c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.0_befe09ede2413266c884461feeffd68b74d2f992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_ddd821707f7ca4183bad0ced49d4d0d83bedf6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_1c14f86cd05da71292c6715bdb898c63cfde4318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_f64bc6a3711f4667677758db6ee5eb1fa532f55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_ce9adbf856af6f0efa1ed65065e7294f599fdc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_cb66b242d95e60b3b0ddb04a964a01377b3b856d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_2d188e9e8021a725537bd51c784b43ff10a06a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_0356b21a7bb4e6d86a091f4ed1e237e59e1a4736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_291b72f71ef114de5f4c74acf02e65b48d90551f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_c40e3d4e9340ce6ac05bcc92eb7245bd2bbe1b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_a2876c2b02a10720b346709787ec7b81d6e84921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_da4b949a4359f3e57d44475411ef5f5246517b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_49061c727946d755208ea934778058d0f733c728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_3ec25ad96e96fb4b21a23751fcc2dd5e45d2e7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_0f5c94d07451fe593af1038c346f431940cc8e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.0_2527d1e0a4696703284278b320a7430c6da791f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_9dfff68ad773926f2eea082c7b20be4284959a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_1a934eb2380434f83f59a5433879190002dc962a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_b364fdcafb0b579743afd82fc5866e3ef6fd5053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_252526697f793db586a1fbbaa879667c46c7f3cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_93d7ee3221cd41fbd3f585aa33e92dc19b42376f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.0_eda4bbe1716901bcc64bcfc8b7de6fb20e9c6823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_66707b93e61284f876382f1e4892e670a338ef7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_b369637f497e7c61759455c527b59bd824220c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_980c2db96ffd2d3e3b8c376c43b89ba844a06713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.0_befe09ede2413266c884461feeffd68b74d2f992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.0_eda4bbe1716901bcc64bcfc8b7de6fb20e9c6823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suave\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_9a2e38ef77c3ce6385953935664db7f2b66ff4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suave\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\common-1.0.0_a498f3aa3e0153970c79eab56ec4a2bb58e2fdca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_fe722b313d2f19fe972476fb511d19a1e4a71179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_b364fdcafb0b579743afd82fc5866e3ef6fd5053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_90ac715f3d51dd6f9745aa88f17ec3e4b1e3af7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="D:\update Codes backup\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.0_48679040d9e7f2f34f2028d6c1d4b6acba563c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_59b93c59355388de25f763a91e235744e1336c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\codes\KidsKalma\iaw-kids-kalma-android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_c197721f3a3d160a231cbcf7de1e10b2dbd49014.jar" />
+    </item>
+
+</items>

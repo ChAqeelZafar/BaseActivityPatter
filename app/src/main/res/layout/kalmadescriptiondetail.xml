@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50X"
+        android:layout_alignParentTop="true"
+        android:background="@color/hedercolor">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="@dimen/HomeWight"
+            android:layout_height="@dimen/Homeheight"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_10X"
+            android:background="@drawable/home" />
+
+        <TextView
+            android:id="@+id/kaltitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:text="Kids Kalma"
+            android:textColor="@color/White"
+            android:textSize="@dimen/sp_20" />
+
+        <Button
+            android:id="@+id/share"
+            android:layout_width="@dimen/HomeWight"
+            android:layout_height="@dimen/Homeheight"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_10X"
+            android:background="@drawable/share" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/llAdView"
+        android:layout_below="@+id/header"
+        android:background="@drawable/ingo_bg"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/dp_50X">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tvScroll" />
+
+        <TextView
+            android:id="@+id/tvScroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bottomimages"
+            android:layout_centerHorizontal="true"
+            android:text="Scroll to see more"
+            android:textColor="@color/red"
+            android:textSize="@dimen/sp_14"
+            android:textStyle="italic"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/bottomimages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/adView"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/_5sdp"
+
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/play"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_centerHorizontal="true"
+
+                android:background="@drawable/puase_2" />
+
+
+            <Button
+                android:id="@+id/next"
+                android:layout_width="@dimen/_51sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/next" />
+
+            <Button
+                android:id="@+id/previous"
+                android:layout_width="@dimen/_51sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_alignTop="@+id/bottomimages"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:background="@drawable/previous" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admob_key"></com.google.android.gms.ads.AdView>
+    <!--LinearLayout
+        android:id="@+id/llAdView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+    </LinearLayout>-->
+
+</RelativeLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kids kalma</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash">Kids Kalma Splash</string>
+    <string name="Kalmaheader">Kids Kalma</string>
+    <string name="Pronounciation">Pronunciation</string>
+    <string name="Information">Information</string>
+    <string name="InformationText">Kids Kalma include audio, arabic, translation and transliteration with beautiful interactive user interface for kids. Kids Kalma app is for Kids to memorize, understand and pronounce six islamic kalmas.</string>
+    <string name="Translation">Translation</string>
+    <string name="prokalmatwo">kalma two Pronounciation</string>
+    <string name="prokalmaThree">kalma three Pronounciation</string>
+    <string name="prokalmaFour">kalma four Pronounciation</string>
+    <string name="prokalmaFive">kalma five Pronounciation</string>
+    <string name="prokalmasix">kalma six Pronounciation</string>
+    <string name="tinyurl">Share via Kids Kalma http://tinyurl.com/KidsKalmaApp/</string>
+    <string name="Selectlangh">Select Language</string>
+    <string name="English">ENGLISH</string>
+    <string name="Urdu">URDU</string>
+    <string name="indonesia">INDONESIA</string>
+    <string name="turkish">TURKISH</string>
+    <string name="spenish">SPANISH</string>
+    <string name="german">GERMAN</string>
+    <string name="chinese">CHINESE</string>
+    <!-- <string name="admob_key">ca-app-pub-9548600370117446/3845458015</string> -->
+
+    <string name="country_prompt">Choose a Language</string>
+
+    <string-array name="country_arrays">
+        <item>Select Language</item>
+        <item>English</item>
+        <item>Urdu</item>
+        <item>Indonasia</item>
+        <item>Turkish</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate">Rate</string>
+    <string name="Info">Info</string>
+    <string name="more">More Apps</string>
+
+
+<!--    <string name="admob_app_id">ca-app-pub-9301287576592179~6921641444</string>-->
+
+<!--    &lt;!&ndash;live&ndash;&gt;-->
+<!--    <string name="admob_key">ca-app-pub-9301287576592179/9875107842</string>-->
+<!--    &lt;!&ndash;test&ndash;&gt;-->
+<!--    &lt;!&ndash;<string name="admob_key">ca-app-pub-3940256099942544/6300978111</string>&ndash;&gt;-->
+
+<!--    &lt;!&ndash;live&ndash;&gt;-->
+<!--    <string name="fullAddId">ca-app-pub-9301287576592179/2351841043</string>-->
+
+
+<!--    &lt;!&ndash;test&ndash;&gt;-->
+<!--    &lt;!&ndash;<string name="fullAddId">ca-app-pub-3940256099942544/103317371</string>&ndash;&gt;-->
+
+
+
+<!--    <string name="rewardAdd">ca-app-pub-9301287576592179/7375499448</string>-->
+<!--    <string name="nativeadId">ca-app-pub-9301287576592179/2023625448</string>-->
+
+
+<!--    Update-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!--live-->
+    <string name="admob_key">ca-app-pub-3940256099942544/6300978111</string>
+    <!--test-->
+    <!--<string name="admob_key">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <!--live-->
+    <string name="fullAddId">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--test-->
+    <!--<string name="fullAddId">ca-app-pub-3940256099942544/103317371</string>-->
+
+
+
+    <string name="rewardAdd">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="nativeadId">ca-app-pub-3940256099942544/1044960115</string>
+
+    <string name="huawei_test_deivce_id">"229E4C860A97355FFCCE7C65310FCE22"</string>
+</resources>

@@ -1,0 +1,228 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_for_all" >
+
+   ?
+
+    <TextView
+        android:id="@+id/tvSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lineatBottom"
+        android:gravity="center_horizontal"
+        android:text="@string/Selectlangh"
+        android:textColor="@color/chrom"
+        android:textSize="@dimen/FonsizeSelectlang" />
+
+    <LinearLayout
+        android:id="@+id/lineatBottom"
+        android:layout_width="@dimen/boardWidth"
+        android:layout_height="@dimen/boardheight"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/board"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/firstlangeng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnStarEng"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:layout_marginTop="@dimen/dp_5X"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnEnglish"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/English"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/firstUrdu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarUrdu"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnUrdu"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/Urdu"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/firstIndonesia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarIndo"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnIndonesia"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/indonesia"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/firstTurkish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarTurkish"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnTurkish"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/turkish"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/firstSpanish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarspanish"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnspanish"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/spenish"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/firstGerman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarGerman"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnGerman"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/german"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/firstChinese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btnkalmamargintop"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <Button
+                android:id="@+id/btnStarChinese"
+                android:layout_width="@dimen/starwidth"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/starMarginleft"
+                android:background="@drawable/star"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnChinese"
+                android:layout_width="@dimen/btnwidth120"
+                android:layout_height="@dimen/starHeight"
+                android:layout_marginLeft="@dimen/btnlangMarginleft"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:text="@string/chinese"
+                android:textColor="@color/White"
+                android:textSize="@dimen/Fonsize18dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

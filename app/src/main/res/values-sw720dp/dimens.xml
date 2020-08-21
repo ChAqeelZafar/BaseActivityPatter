@@ -1,0 +1,173 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+<string name="values">valuse-sw720</string>
+
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+      <dimen name="KalmaHeaderheight">80dp</dimen>
+      <dimen name="KalmaBismila">380dp</dimen>
+      
+         <dimen name="minus25">10dp</dimen>
+             <dimen name="kidsbookBo">100dp</dimen>
+       <dimen name="marginleftSpinner">100dp</dimen>
+       <dimen name="marginRightSpinner">100dp</dimen>
+       <dimen name="margintopSpinner">100dp</dimen>
+       <dimen name="btnKalmaHeight">100dp</dimen>
+         <dimen name="dp_50X">100dp</dimen>
+       <dimen name="btnmarginright">60dp</dimen>
+       <dimen name="btnkalmamarginleft">60dp</dimen>
+       <dimen name="btnkalmamargintop">8dp</dimen>
+       <dimen name="infofontsize">30sp</dimen>
+<dimen name="settingHW">55dp</dimen>
+       <dimen name="btnbismillahLeft">120dp</dimen>
+       <dimen name="popupwidth">300dp</dimen>
+       <dimen name="selectLanguageLeft">140dp</dimen>
+       <dimen name="selectLanguageRight">140dp</dimen>
+       <dimen name="boardheight">600dp</dimen>
+       <dimen name="boardWidth">440dp</dimen>
+       <dimen name="boardMarginleft">80dp</dimen>
+       <dimen name="boardMarginRight">80dp</dimen>
+       <dimen name="boardmarginTop">20dp</dimen>
+      
+       
+       <dimen name="starMarginleft">80dp</dimen>
+        <dimen name="btnlangMarginleft">20dp</dimen>
+        <dimen name="margintop10">80dp</dimen>
+         <dimen name="margintop30">60dp</dimen>
+         <dimen name="btnwidth120">240dp</dimen>
+         <dimen name="Fonsize18dp">30sp</dimen>
+         <dimen name="height50dp">100dp</dimen>
+         
+       
+       <dimen name="bottomKalmaWidth">594dp</dimen>
+      
+       <dimen name="FonsizeSelectlang">40dp</dimen>
+       
+        <dimen name="firstlangeng">100dp</dimen>
+       
+<!-- Here is height of mainscreen images height and width -->
+ <dimen name="starHeight">40dp</dimen>
+ <dimen name="starwidth">40dp</dimen>
+ 
+<dimen name="bismillahlayoutHeight">540dp</dimen>
+ <dimen name="bismillahMargintop">200dp</dimen>
+  <dimen name="bismillahHeight">280dp</dimen>
+  <dimen name="bismillahWidth">360dp</dimen>
+  <dimen name="firstkalmaHeight">160dp</dimen>
+  <dimen name="firstkalmaWidth">160dp</dimen>
+   <dimen name="firstkalmaMargintop">240dp</dimen>
+   <dimen name="firstkalmaMarginLeft">310dp</dimen>
+   <dimen name="marginLeftSixkalma">80dp</dimen>
+   <dimen name="marginTopsixkalma">320dp</dimen>
+   
+   <dimen name="Bookwithnormal">208dp</dimen>
+   <dimen name="BookHeightnormal">116dp</dimen>
+   <dimen name="bookleft">300dp</dimen>
+   <dimen name="booktop">470dp</dimen>
+   <dimen name="fifthtop">580dp</dimen>
+      <dimen name="FourLeft">310dp</dimen>
+         <dimen name="Fourtop">640dp</dimen>
+         <dimen name="threeTop">530dp</dimen>
+         <dimen name="kidsbookHeight">136dp</dimen>
+          <dimen name="kidsbookWidth">164dp</dimen>
+          <dimen name="kidsbookBottom">130dp</dimen>
+          <dimen name="kidsHelpHeight">50dp</dimen>
+          <dimen name="kidsHelpWidth">120dp</dimen>
+          <dimen name="margin10dp">20dp</dimen>
+          
+          <dimen name="kalmaHeight">352dp</dimen>
+          
+          <dimen name="kalmaWidth">440dp</dimen>
+          
+          
+          <dimen name="detailkalmaTOP">340dp</dimen>
+          <!-- here we change -->
+            <dimen name="textHeader">35sp</dimen>
+          <dimen name="textSixe">20sp</dimen>
+           <dimen name="bottomKalmaHeight">180dp</dimen>
+            <dimen name="botKalmaWith">500dp</dimen>
+            <dimen name="margin70">120dp</dimen>
+            <dimen name="playHeight">60dp</dimen>
+            <dimen name="playwithd">60dp</dimen>
+            
+            <!-- iNFOSCREEN -->
+             <dimen name="TreeHeight">280dp</dimen>
+             <dimen name="TreeWidth">300dp</dimen>
+             
+             <dimen name="suaveheight">276dp</dimen>
+             <dimen name="suaveWight">256dp</dimen>
+             
+             <dimen name="btnfacebookH">136dp</dimen>
+              <dimen name="btnfacebookW">136dp</dimen>
+              <dimen name="btnfeedbackH">90dp</dimen>
+              <dimen name="btnfeedbackW">168dp</dimen>
+              <dimen name="Homeheight">60dp</dimen>
+              <dimen name="HomeWight">102dp</dimen>
+               <dimen name="dp_10info">20dp</dimen>
+               <dimen name="dp_140dp">430dp</dimen>
+              <dimen name="device32">-25dp</dimen>
+               
+               
+            <!-- end info -->
+            
+   
+<!-- End -->
+       <!-- Genral size in dp -->
+    <dimen name="dp_2X">4dp</dimen>
+    <dimen name="dp_3X">6dp</dimen>
+    <dimen name="dp_5X">0dp</dimen>
+    <dimen name="dp_8X">16dp</dimen>
+    <dimen name="dp_10X">20dp</dimen>
+    <dimen name="dp_12X">24dp</dimen>
+    <dimen name="dp_15X">30dp</dimen>
+    <dimen name="dp_18X">36dp</dimen>
+    <dimen name="dp_20X">40dp</dimen>
+    <dimen name="dp_22X">44dp</dimen>
+    <dimen name="dp_25X">50dp</dimen>
+    <dimen name="dp_28X">56dp</dimen>
+    <dimen name="dp_30X">60dp</dimen>
+    <dimen name="dp_32X">64dp</dimen>
+    <dimen name="dp_34X">68dp</dimen>
+    <dimen name="dp_36X">72dp</dimen>
+    <dimen name="dp_38X">76dp</dimen>
+    <dimen name="dp_40X">80dp</dimen>
+    <dimen name="dp_42X">84dp</dimen>
+    <dimen name="dp_60X">120dp</dimen>
+    <dimen name="dp_80X">220dp</dimen>
+
+    <dimen name="dp_100X">250dp</dimen>
+     <dimen name="dp_200X">300dp</dimen>
+    
+
+    <!-- font sizes -->
+    <dimen name="sp_7x">14sp</dimen>
+    <dimen name="sp_8x">16sp</dimen>
+    <dimen name="sp_9x">18sp</dimen>
+    <dimen name="sp_10x">20sp</dimen>
+    <dimen name="sp_11">22sp</dimen>
+    <dimen name="sp_12">24sp</dimen>
+    <dimen name="sp_13">26sp</dimen>
+    <dimen name="sp_14">28sp</dimen>
+    <dimen name="sp_15">30sp</dimen>
+    
+    
+    <dimen name="sp_16">32sp</dimen>
+    <dimen name="sp_17">34sp</dimen>
+    <dimen name="sp_18">36sp</dimen>
+    <dimen name="sp_19">38sp</dimen>
+    <dimen name="sp_20">40sp</dimen>
+    <dimen name="sp_21">42sp</dimen>
+    <dimen name="sp_22">44sp</dimen>
+    <dimen name="sp_25">50sp</dimen>
+    <dimen name="sp_28">56sp</dimen>
+    <dimen name="sp_30">60sp</dimen>
+    <dimen name="sp_32">64sp</dimen>
+    <dimen name="sp_35">70sp</dimen>
+    <dimen name="sp_38">72sp</dimen>
+    <dimen name="sp_40">80sp</dimen>
+    <dimen name="sp_42">84sp</dimen>
+    <dimen name="sp_200">600dp</dimen>
+    <!-- font sizes End -->
+        <dimen name="btn_social_size">91dp</dimen>
+</resources>

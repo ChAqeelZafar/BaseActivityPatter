@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <string name="values">valuse-sw600</string>
+
+    <dimen name="btnbismillahLeft">90dp</dimen>
+    <dimen name="selectLanguageLeft">105dp</dimen>
+    <dimen name="selectLanguageRight">105dp</dimen>
+    <dimen name="minus25">-80dp</dimen>
+    <dimen name="starMarginleft">60dp</dimen>
+    <dimen name="btnlangMarginleft">15dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="dp_100X">160dp</dimen>
+    <dimen name="dp_50X">80dp</dimen>
+    <dimen name="boardWidth">330dp</dimen>
+    <dimen name="boardheight">450dp</dimen>
+    <dimen name="boardMarginleft">60dp</dimen>
+    <dimen name="boardMarginRight">60dp</dimen>
+    <dimen name="boardmarginTop">15dp</dimen>
+    <dimen name="FonsizeSelectlang">30dp</dimen>
+    <dimen name="btnwidth120">180dp</dimen>
+    <dimen name="firstlangeng">80dp</dimen>
+    <dimen name="popupwidth">225dp</dimen>
+    <dimen name="margintop10">15dp</dimen>
+    <dimen name="margintop30">60dp</dimen>
+    <dimen name="Fonsize18dp">27sp</dimen>
+    <dimen name="height50dp">75dp</dimen>
+    <dimen name="settingHW">45dp</dimen>
+    <dimen name="bottomKalmaWidth">668dp</dimen>
+    <dimen name="bottomKalmaHeight">99dp</dimen>
+    <dimen name="bottKalmaHeight">100dp</dimen>
+    <!-- Here is height of mainscreen images height and width -->
+    <dimen name="starHeight">40dp</dimen>
+    <dimen name="starwidth">40dp</dimen>
+    <dimen name="bismillahMargintop">150dp</dimen>
+    <dimen name="bismillahlayoutHeight">405dp</dimen>
+    <dimen name="bismillahHeight">210dp</dimen>
+    <dimen name="bismillahWidth">270dp</dimen>
+    <dimen name="firstkalmaHeight">120dp</dimen>
+    <dimen name="firstkalmaWidth">120dp</dimen>
+    <dimen name="firstkalmaMargintop">200dp</dimen>
+    <dimen name="firstkalmaMarginLeft">234dp</dimen>
+    <dimen name="marginLeftSixkalma">30dp</dimen>
+    <dimen name="marginTopsixkalma">270dp</dimen>
+    <dimen name="Bookwithnormal">150dp</dimen>
+    <dimen name="BookHeightnormal">155dp</dimen>
+    <dimen name="bookleft">225dp</dimen>
+    <dimen name="booktop">352.5dp</dimen>
+    <dimen name="fifthtop">435dp</dimen>
+    <dimen name="FourLeft">235dp</dimen>
+    <dimen name="Fourtop">540dp</dimen>
+    <dimen name="threeTop">457.5dp</dimen>
+    <dimen name="kidsbookHeight">130dp</dimen>
+    <dimen name="kidsbookWidth">165dp</dimen>
+    <dimen name="kidsbookBottom">75dp</dimen>
+    <dimen name="kidsHelpHeight">37.5dp</dimen>
+    <dimen name="kidsHelpWidth">90dp</dimen>
+    <dimen name="margin10dp">20dp</dimen>
+    <dimen name="dp_10info">15dp</dimen>
+    <dimen name="detailkalmaTOP">295dp</dimen>
+    <dimen name="textHeader">25sp</dimen>
+    <dimen name="textSixe">20sp</dimen>
+    <dimen name="botKalmaWith">475dp</dimen>
+    <dimen name="margin70">70dp</dimen>
+    <dimen name="playHeight">45dp</dimen>
+    <dimen name="playwithd">45dp</dimen>
+    <dimen name="dp_10X">15dp</dimen>
+    <dimen name="dp_5X">8dp</dimen>
+    <dimen name="dp_20X">30dp</dimen>
+    <dimen name="dp_30X">100dp</dimen>
+    <dimen name="infofontsize">22sp</dimen>
+    <!-- End -->
+    <!-- iNFOSCREEN -->
+    <dimen name="TreeHeight">181.5dp</dimen>
+    <dimen name="TreeWidth">168dp</dimen>
+    <dimen name="btnfacebookH">91dp</dimen>
+    <dimen name="btnfacebookW">91dp</dimen>
+    <dimen name="btnfeedbackH">68dp</dimen>
+    <dimen name="btnfeedbackW">120dp</dimen>
+    <dimen name="Homeheight">45dp</dimen>
+    <dimen name="HomeWight">77dp</dimen>
+    <dimen name="suaveheight">207dp</dimen>
+    <dimen name="suaveWight">192dp</dimen>
+    <dimen name="dp_200X">220dp</dimen>
+    <dimen name="dp_140dp">240dp</dimen>
+    <!-- end info -->
+    <dimen name="dp_40X">60dp</dimen>
+    <dimen name="sp_14">21sp</dimen>
+    <dimen name="sp_16">24sp</dimen>
+    <dimen name="sp_18">27sp</dimen>
+    <dimen name="sp_200">500dp</dimen>
+    <dimen name="kalmaHeight">264dp</dimen>
+    <dimen name="kalmaWidth">330dp</dimen>
+    <dimen name="sp_20">30sp</dimen>
+ <dimen name="btn_social_size">68dp</dimen>
+</resources>

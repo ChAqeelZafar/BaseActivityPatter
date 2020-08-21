@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50X"
+        android:background="@color/hedercolor">
+
+        <TextView
+            android:id="@+id/tvHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:text="Kids Kalma"
+            android:textColor="@color/White"
+            android:textSize="@dimen/sp_20" />
+
+        <!--<Button-->
+        <!--android:id="@+id/info"-->
+        <!--android:layout_width="@dimen/HomeWight"-->
+        <!--android:layout_height="@dimen/Homeheight"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_marginLeft="@dimen/dp_10X"-->
+        <!--android:background="@drawable/info" />-->
+
+        <Button
+            android:id="@+id/btnsettings"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_10X"
+            android:background="@drawable/lang" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/header"
+        android:background="@drawable/ingo_bg"></ImageView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout
+            android:id="@+id/relativelayoput"
+            android:layout_width="match_parent"
+            android:layout_height="434dp"
+
+
+            android:layout_centerVertical="true">
+
+            <!-- <Button
+                android:id="@+id/fisrtKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/firstkalmaMargintop"
+                android:background="@drawable/first" />-->
+            <LinearLayout
+                android:id="@+id/fisrtKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="120dp"
+                android:background="@drawable/ovalshape"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/digit1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="1"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtfisrtKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <!--<Button
+                android:id="@+id/sixKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/marginTopsixkalma"
+                android:layout_toLeftOf="@+id/book"
+                android:background="@drawable/six"
+                android:visibility="invisible" />-->
+            <LinearLayout
+                android:id="@+id/sixKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_marginTop="@dimen/marginTopsixkalma"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_toLeftOf="@+id/book"
+                android:background="@drawable/ovel6"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/digit6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="6"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtsixKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/book"
+                android:layout_width="@dimen/Bookwithnormal"
+                android:layout_height="@dimen/BookHeightnormal"
+                android:layout_below="@+id/fisrtKalma"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:background="@drawable/book" />
+
+            <!-- <Button
+                android:id="@+id/secondKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/marginTopsixkalma"
+                android:layout_toRightOf="@+id/book"
+                android:background="@drawable/second"
+
+                android:visibility="invisible" />-->
+            <LinearLayout
+                android:id="@+id/secondKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/marginTopsixkalma"
+                android:layout_toRightOf="@+id/book"
+                android:background="@drawable/ovel2"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/digit2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="2"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtsecondKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <!--<Button
+                android:id="@+id/fifthKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+
+                android:layout_alignBottom="@+id/ThirdKalma"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_toLeftOf="@+id/book"
+                android:background="@drawable/five"
+                android:visibility="invisible" />-->
+            <LinearLayout
+                android:id="@+id/fifthKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_alignBottom="@+id/ThirdKalma"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_toLeftOf="@+id/book"
+                android:background="@drawable/ovel5"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/digit5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="5"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtfifthKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- <Button
+                android:id="@+id/FourthKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_below="@+id/book"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:background="@drawable/four"
+                android:visibility="invisible" />-->
+            <LinearLayout
+                android:id="@+id/FourthKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_below="@+id/book"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:background="@drawable/ovel4"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/digit4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="4"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtFourthKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <!--<Button
+                android:id="@+id/ThirdKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_below="@+id/secondKalma"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_toRightOf="@+id/book"
+                android:background="@drawable/three"
+                android:visibility="invisible" />-->
+            <LinearLayout
+                android:id="@+id/ThirdKalma"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_below="@+id/secondKalma"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_toRightOf="@+id/book"
+                android:background="@drawable/ovel3"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/digit3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="3"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_25sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtThirdKalma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KALMA"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/_18sdp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/bottomImg"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/bottom" />
+
+        <Button
+            android:id="@+id/bottomBook"
+            android:layout_width="@dimen/kidsbookWidth"
+            android:layout_height="@dimen/kidsbookHeight"
+            android:layout_above="@+id/lsocial"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/kid"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/lsocial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/dp_10X">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnFeedback"
+                    android:layout_width="@dimen/_42sdp"
+                    android:layout_height="@dimen/_23sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/feedback" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/feedback"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/sp_15"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/info"
+                    android:layout_width="@dimen/_42sdp"
+                    android:layout_height="@dimen/_23sdp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dp_8X"
+                    android:layout_marginRight="@dimen/dp_8X"
+                    android:background="@drawable/info" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/Info"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/sp_15"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_150sdp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <Button
+                    android:id="@+id/btnrate"
+                    android:layout_width="@dimen/_42sdp"
+                    android:layout_height="@dimen/_23sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/rate" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/rate"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/sp_15"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnshare"
+                    android:layout_width="@dimen/_42sdp"
+                    android:layout_height="@dimen/_23sdp"
+                    android:layout_gravity="center_horizontal"
+
+                    android:background="@drawable/sharemain" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/share"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/sp_15"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <!--<LinearLayout
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:gravity="center"
+        android:visibility="gone"></LinearLayout>-->
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admob_key"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
